@@ -1,0 +1,7 @@
+com\example\demo\Controller\UserController.class
+com\example\demo\DemoApplication.class
+com\example\demo\repository\UsersRepository.class
+com\example\demo\service\MyUserDetailsService.class
+com\example\demo\model\MyUserDetails.class
+com\example\demo\security\SecurityConfig.class
+com\example\demo\model\Users.class
